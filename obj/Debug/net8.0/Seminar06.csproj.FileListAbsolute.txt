@@ -1,0 +1,15 @@
+D:\GB\CSharp\Seminar06\bin\Debug\net8.0\Seminar06.exe
+D:\GB\CSharp\Seminar06\bin\Debug\net8.0\Seminar06.deps.json
+D:\GB\CSharp\Seminar06\bin\Debug\net8.0\Seminar06.runtimeconfig.json
+D:\GB\CSharp\Seminar06\bin\Debug\net8.0\Seminar06.dll
+D:\GB\CSharp\Seminar06\bin\Debug\net8.0\Seminar06.pdb
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.AssemblyInfoInputs.cache
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.AssemblyInfo.cs
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.csproj.CoreCompileInputs.cache
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.sourcelink.json
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.dll
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\refint\Seminar06.dll
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.pdb
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\Seminar06.genruntimeconfig.cache
+D:\GB\CSharp\Seminar06\obj\Debug\net8.0\ref\Seminar06.dll
